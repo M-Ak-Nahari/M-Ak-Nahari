@@ -1,5 +1,1 @@
- I’m @M-Ak-Nahari
-<!---
-M-Ak-Nahari/M-Ak-Nahari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full stack developer | Django | vite React.js
